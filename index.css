@@ -1,0 +1,276 @@
+h1
+{
+    position: absolute;
+    left: 450px;
+    top: 25px;
+    text-align: center;
+}
+.display
+{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    color: yellow;
+    left: 300px;
+    top: 100px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    padding-top: 10px;
+}
+.seven
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 220px;
+    left: 300px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.four
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 320px;
+    left: 300px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.one
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 420px;
+    left: 300px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.clear
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 520px;
+    left: 475px;
+    width: 150px;
+    height: 75px;
+    background-color: #00aaff;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.eight
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 220px;
+    left: 475px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.five
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 320px;
+    left: 475px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.two
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 420px;
+    left: 475px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.zero
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 520px;
+    left: 300px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.nine
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 220px;
+    left: 650px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.six
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 320px;
+    left: 650px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.three
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 420px;
+    left: 650px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.equal
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 520px;
+    left: 650px;
+    width: 150px;
+    height: 75px;
+    background-color: #ff00aa;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.division
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 220px;
+    left: 830px;
+    width: 150px;
+    height: 75px;
+    background-color: #aaff00;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.multiplication
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 320px;
+    left: 830px;
+    width: 150px;
+    height: 75px;
+    background-color: #aaff00;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.subraction
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 420px;
+    left: 830px;
+    width: 150px;
+    height: 75px;
+    background-color: #aaff00;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.addition
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 520px;
+    left: 830px;
+    width: 150px;
+    height: 75px;
+    background-color: #aaff00;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.modulus
+{
+    border-radius: 30px;
+    position: absolute;
+    top: 115px;
+    left: 830px;
+    width: 150px;
+    height: 75px;
+    background-color: #aaff00;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+}
